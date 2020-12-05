@@ -1,4 +1,1 @@
 This isn't so baaaad!
-
-git config --global core.editor "code -wait"
-git config --global blah blah blah
